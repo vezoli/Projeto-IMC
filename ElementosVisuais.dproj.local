@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/31 18:59:34.000.678,=C:\Users\samuk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:19:34.591,=C:\Users\samuk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:41:46.138,C:\Users\samuk\Desktop\ADS\DELPHI\APLICAÇÕES\AULA COMPONENTES VISUAIS\uFrmPrincipal.dfm=C:\Users\samuk\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/02 14:41:46.138,C:\Users\samuk\Desktop\ADS\DELPHI\APLICAÇÕES\AULA COMPONENTES VISUAIS\uFrmPrincipal.pas=C:\Users\samuk\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:42:07.936,C:\Users\samuk\Desktop\ADS\DELPHI\APLICAÇÕES\AULA COMPONENTES VISUAIS\ElementosVisuais.dproj=C:\Users\samuk\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
